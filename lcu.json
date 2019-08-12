@@ -1,0 +1,14 @@
+{
+  "templates": {
+    "repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+    "scope": "@lcu-kevin-prd",
+    "workspace": "lcu-kevin-prd"
+  },
+  "config": {
+    "wc": ["wc/lcu-kevin-prd.lcu.js"],
+    "solutions": {},
+    "elements": {},
+    "flux": {},
+    "dependencies": {}
+  }
+}
